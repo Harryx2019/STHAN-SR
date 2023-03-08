@@ -1,5 +1,5 @@
 # STHAN-SR
-复现AAAI-21-STHAN-SR
+复现AAAI-21-STHAN-SR（股票以及股票图关系数据处理见jupyter文件）
 
 ## train_NASDAQ_.py 以原论文方式复现
 （以全部样本区间收盘价最大值标准化数据）
