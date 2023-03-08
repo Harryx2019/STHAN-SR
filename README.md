@@ -1,6 +1,9 @@
 # STHAN-SR
 复现AAAI-21-STHAN-SR（股票以及股票图关系数据处理见jupyter文件）
 
+
+所有数据见：https://github.com/fulifeng/Temporal_Relational_Stock_Ranking
+
 ## train_NASDAQ_.py 以原论文方式复现
 （以全部样本区间收盘价最大值标准化数据）
  + 2013-2015作为训练集，2016验证集，2017测试集
